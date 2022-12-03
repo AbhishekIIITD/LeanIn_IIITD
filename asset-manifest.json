@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AbhishekIIITD/LeanIn_IIITD/static/css/main.f4118a4f.css",
+    "main.js": "/AbhishekIIITD/LeanIn_IIITD/static/js/main.888df8dc.js",
+    "static/js/787.b9798d09.chunk.js": "/AbhishekIIITD/LeanIn_IIITD/static/js/787.b9798d09.chunk.js",
+    "static/media/logo_white.jpg": "/AbhishekIIITD/LeanIn_IIITD/static/media/logo_white.9acdb18011d6e52a6507.jpg",
+    "static/media/Halloween.jpg": "/AbhishekIIITD/LeanIn_IIITD/static/media/Halloween.1c5990b03746e992732e.jpg",
+    "static/media/Event1.jpg": "/AbhishekIIITD/LeanIn_IIITD/static/media/Event1.4088214c314a9938bcc2.jpg",
+    "static/media/Mentors.jpg": "/AbhishekIIITD/LeanIn_IIITD/static/media/Mentors.95ce665fda44e9a4d8dd.jpg",
+    "static/media/hey.jpg": "/AbhishekIIITD/LeanIn_IIITD/static/media/hey.90af109595ab40c4f80d.jpg",
+    "static/media/jhanvi_lead.jpg": "/AbhishekIIITD/LeanIn_IIITD/static/media/jhanvi_lead.3ebabce5b931c20bf672.jpg",
+    "static/media/dhairya_lead.jpg": "/AbhishekIIITD/LeanIn_IIITD/static/media/dhairya_lead.0a89ca333ddfa28c7d61.jpg",
+    "static/media/ishika_lead.jpg": "/AbhishekIIITD/LeanIn_IIITD/static/media/ishika_lead.f8b148c637eee3b2a8ac.jpg",
+    "index.html": "/AbhishekIIITD/LeanIn_IIITD/index.html",
+    "main.f4118a4f.css.map": "/AbhishekIIITD/LeanIn_IIITD/static/css/main.f4118a4f.css.map",
+    "main.888df8dc.js.map": "/AbhishekIIITD/LeanIn_IIITD/static/js/main.888df8dc.js.map",
+    "787.b9798d09.chunk.js.map": "/AbhishekIIITD/LeanIn_IIITD/static/js/787.b9798d09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4118a4f.css",
+    "static/js/main.888df8dc.js"
+  ]
+}
