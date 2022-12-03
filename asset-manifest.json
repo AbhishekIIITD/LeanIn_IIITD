@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/LeanIn_IIITD/static/css/main.f4118a4f.css",
-    "main.js": "/LeanIn_IIITD/static/js/main.e665fb13.js",
-    "static/js/787.b9798d09.chunk.js": "/LeanIn_IIITD/static/js/787.b9798d09.chunk.js",
-    "static/media/logo_white.jpg": "/LeanIn_IIITD/static/media/logo_white.9acdb18011d6e52a6507.jpg",
-    "static/media/Halloween.jpg": "/LeanIn_IIITD/static/media/Halloween.1c5990b03746e992732e.jpg",
-    "static/media/Event1.jpg": "/LeanIn_IIITD/static/media/Event1.4088214c314a9938bcc2.jpg",
-    "static/media/Mentors.jpg": "/LeanIn_IIITD/static/media/Mentors.95ce665fda44e9a4d8dd.jpg",
-    "static/media/hey.jpg": "/LeanIn_IIITD/static/media/hey.90af109595ab40c4f80d.jpg",
-    "static/media/jhanvi_lead.jpg": "/LeanIn_IIITD/static/media/jhanvi_lead.3ebabce5b931c20bf672.jpg",
-    "static/media/dhairya_lead.jpg": "/LeanIn_IIITD/static/media/dhairya_lead.0a89ca333ddfa28c7d61.jpg",
-    "static/media/ishika_lead.jpg": "/LeanIn_IIITD/static/media/ishika_lead.f8b148c637eee3b2a8ac.jpg",
-    "index.html": "/LeanIn_IIITD/index.html",
-    "main.f4118a4f.css.map": "/LeanIn_IIITD/static/css/main.f4118a4f.css.map",
-    "main.e665fb13.js.map": "/LeanIn_IIITD/static/js/main.e665fb13.js.map",
-    "787.b9798d09.chunk.js.map": "/LeanIn_IIITD/static/js/787.b9798d09.chunk.js.map"
+    "main.css": "/static/css/main.f4118a4f.css",
+    "main.js": "/static/js/main.0b77f808.js",
+    "static/js/787.b9798d09.chunk.js": "/static/js/787.b9798d09.chunk.js",
+    "static/media/logo_white.jpg": "/static/media/logo_white.9acdb18011d6e52a6507.jpg",
+    "static/media/Halloween.jpg": "/static/media/Halloween.1c5990b03746e992732e.jpg",
+    "static/media/Event1.jpg": "/static/media/Event1.4088214c314a9938bcc2.jpg",
+    "static/media/Mentors.jpg": "/static/media/Mentors.95ce665fda44e9a4d8dd.jpg",
+    "static/media/hey.jpg": "/static/media/hey.90af109595ab40c4f80d.jpg",
+    "static/media/jhanvi_lead.jpg": "/static/media/jhanvi_lead.3ebabce5b931c20bf672.jpg",
+    "static/media/dhairya_lead.jpg": "/static/media/dhairya_lead.0a89ca333ddfa28c7d61.jpg",
+    "static/media/ishika_lead.jpg": "/static/media/ishika_lead.f8b148c637eee3b2a8ac.jpg",
+    "index.html": "/index.html",
+    "main.f4118a4f.css.map": "/static/css/main.f4118a4f.css.map",
+    "main.0b77f808.js.map": "/static/js/main.0b77f808.js.map",
+    "787.b9798d09.chunk.js.map": "/static/js/787.b9798d09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4118a4f.css",
-    "static/js/main.e665fb13.js"
+    "static/js/main.0b77f808.js"
   ]
 }
